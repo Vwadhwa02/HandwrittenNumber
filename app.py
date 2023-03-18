@@ -11,7 +11,7 @@ BLACK=(0,0,0)
 RED=(255,0,10)
 IMAGESAVE=False
 BOUN=5
-model=load_model("network.h5")
+model=load_model("network1.h5")
 PREDICT=True
 
 
